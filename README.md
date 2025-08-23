@@ -1,4 +1,27 @@
-## Hi there 👋 It's me Hareesh
+# Manikandan-Profile
+
+
+<h1 align="center">Hi there 👋 I'm Manikandan</h1>
+<h3 align="center">Java Full Stack Developer</h3>
+
+---
+<img align="right" width="370" height="290" src="https://pin.it/3AupO2Zrb">
+
+### 👩‍💻 About Me
+- 🧠 Python & AI Developer with **3+ years** of experience in intelligent search, ML pipelines, and real-time analytics  
+- 🏢 Currently **Python Developer at TEXILA EDUCARE HEALTHCARE AND TECHNOLOGY ENTERPRISES Pvt Ltd**  
+- 🏢 Previously at **PBS Info Systems Pvt Ltd** and **Dot Com Infoway Ltd**  
+- 🧰 Pro in **YOLOv8 + ArcFace + FAISS**, real-time dashboards, and Document AI
+- 🚀 Building AI-powered search, document pipelines & real-time CV dashboards with **YOLOv8 + ArcFace + FAISS + CNN**  
+- 🌐 Active in **LLM tools (Cortex, LangChain), hybrid search, prompt engineering**  
+- ☁️ Skilled in building **scalable pipelines on Snowflake, Airflow, Azure Blob**  
+- ☕ Turns caffeine into code, fast as a Cortex Agent
+- 🌱 Deep-diving into **LangChain**, **LLM prompt-engineering**, multi-modal AI  
+- ✨ Fun fact: I turn ☕ into Python scripts faster than you can say “Snowflake Cortex”!
+
+---
+
+## Hi there 👋 It's me Manikandan
 
 Software Engineer @ Zoho Corporation
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
