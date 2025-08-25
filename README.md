@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there 👋 I'm Manikandan</h1>
-<h3 align="center">Java Full Stack Developer</h3>
+<h3 align="center">Java Full Stack Developer | JAVA • MySQL </h3>
 
 ---
 <img align="right" width="370" height="290" src="https://pin.it/3AupO2Zrb">
